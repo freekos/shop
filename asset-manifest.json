@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Shop/static/css/main.3c76ba64.css",
+    "main.js": "/React-Shop/static/js/main.95e51bd4.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/React-Shop/static/media/Rubik-VariableFont_wght.3a8e5377732eefcf42fb.ttf",
+    "static/media/RubikOne-Regular.ttf": "/React-Shop/static/media/RubikOne-Regular.d4141b9030c4e7bdb1aa.ttf",
+    "static/media/burger.png": "/React-Shop/static/media/burger.2affc63641f93c294db3.png",
+    "static/media/hot_dog.png": "/React-Shop/static/media/hot_dog.f9ed59075f97b32bc691.png",
+    "static/media/drumstick.png": "/React-Shop/static/media/drumstick.f259559a923b882b9687.png",
+    "index.html": "/React-Shop/index.html",
+    "main.3c76ba64.css.map": "/React-Shop/static/css/main.3c76ba64.css.map",
+    "main.95e51bd4.js.map": "/React-Shop/static/js/main.95e51bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c76ba64.css",
+    "static/js/main.95e51bd4.js"
+  ]
+}
