@@ -16,6 +16,8 @@ React-Shop: This is a product store written in React, Redux and Tailwind.
 * Thirdly, you can also log out and create a new account, however, your old account will be removed from sessionStorage and you will not be able to log into the old account
 * However, if you have not created a new account, then you can log into your account by entering your email and password.
 
+### I designed and came up with the idea of the site myself
+
 ## To see an example, follow the link:
 https://freekos.github.io/React-Shop/
 
